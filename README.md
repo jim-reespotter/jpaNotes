@@ -1,2 +1,3 @@
-# jpaNotes
-Buch of notes on doing Springboot Jpa
+# Notes on using Springboot JPA
+
+
